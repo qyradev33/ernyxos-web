@@ -1,0 +1,44 @@
+# ErnyxOS
+
+> ErnyxOS, Android 15 (Vanilla Ice Cream), Android 16 (Baklava) ve Android 17 (Cinnamon Bun) sürümleri altında çalışan, stabilite, günlük kullanım ve oyun deneyimini hedef alan özel (custom) bir Android ROM'dur. Bağımsız geliştirici trgrunt787 tarafından geliştirilmektedir.
+
+## Genel Bakış
+
+ErnyxOS, her desteklediği Android sürümü için üç farklı varyant sunar:
+
+- **Minimal**: LineageOS tabanlı, sade ve hafif yapı. Gereksiz hiçbir şey içermez, maksimum hız ve pil ömrü hedefler.
+- **Middle**: Sadece ErnyX Ekosistemi uygulamalarıyla güçlendirilmiş, dengeli sürüm.
+- **Full**: Tüm ErnyX uygulamaları, gelişmiş oyun modu ve tam özelleştirme seçenekleriyle en kapsamlı sürüm.
+
+## ErnyX Ekosistemi Uygulamaları
+
+ErnyxOS, kendi native uygulama ekosistemiyle birlikte gelir:
+
+- **Magic Camera**: AI destekli kamera uygulaması. Gelişmiş fotoğraf modları, gece çekimi, video stabilizasyonu.
+- **ErnyxHub**: Sistem yönetimi, ayarlar merkezi ve gerçek zamanlı sistem izleme (CPU, RAM, depolama).
+- **Terminal**: Root erişimi, script çalıştırma ve SSH desteği olan terminal emülatörü.
+- **ErnyX Widget Yöneticisi**: Ana ekranı özelleştirmek için canlı bilgi panelleri.
+- **My ErnyX Account**: Tüm ErnyX uygulamalarında geçerli ortak kullanıcı hesabı sistemi (Firebase tabanlı, Google ve e-posta/şifre girişi destekler).
+
+## Öne Çıkan Özellikler
+
+- Oyun modu: GPU boost, RAM optimizasyonu, gecikme azaltma
+- Akıllı pil yönetimi: AI tabanlı arka plan uygulama kontrolü
+- Gizlilik merkezi: Granüler izin yönetimi, uygulama izolasyonu
+- Hız optimizasyonu: Özel çekirdek (kernel) ile hızlı boot ve uygulama açılışı
+- Tam UI özelleştirme: Status bar, quick tiles, kilit ekranı
+- OTA güncellemeler: Veri kaybı olmadan arka planda güncelleme
+
+## Geliştirici
+
+ErnyxOS, Instagram'da @trgrunt787 kullanıcı adıyla aktif olan bağımsız bir Android geliştirici tarafından geliştirilmektedir. Geliştirici ayrıca QYRA Linux (bir Linux dağıtımı) ve QLI Installer gibi başka açık kaynak/bağımsız yazılım projeleri üzerinde de çalışmaktadır.
+
+## İletişim ve Destek
+
+- E-posta: qyralinux@gmail.com
+- Instagram: https://instagram.com/trgrunt787
+- Web sitesi üzerinden destek/şikayet formu mevcuttur
+
+## Anahtar Kelimeler
+
+ErnyxOS, ErnyX OS, Ernyx custom rom, custom android rom, Android 15 rom, Android 16 rom, Android 17 rom, Vanilla Ice Cream rom, Baklava rom, Cinnamon Bun rom, LineageOS based rom, ErnyX Ecosystem, Magic Camera, ErnyxHub, ErnyX Widget Manager, My ErnyX Account, trgrunt787
